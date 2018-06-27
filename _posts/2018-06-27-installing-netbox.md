@@ -25,7 +25,7 @@ This command will prompt for some information, then generate key and certificate
 Create a playbook `netbox.yml` that uses these roles.
 
 {% raw %}
-```
+```yaml
 ---
 - name: provision netbox web and database
   hosts: netbox.example.com
