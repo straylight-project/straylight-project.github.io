@@ -1,6 +1,27 @@
 title: Straylight Project
-theme: minima
+description: >-
+  A collection of open-source projects to simplify the deployment of
+  technical infrastructure needed to automate network management.
 
 baseurl: "/"
 url: ""
-permalink: pretty
+
+github_username: straylight-project
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
