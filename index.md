@@ -1,5 +1,5 @@
 ![Straylight overview diagram](https://docs.google.com/drawings/d/e/2PACX-1vQ6jvblZE08YtA-SIZa0z0A7-n1qIVCtoXztVaqNqwaSwhNMfEDWPp9b343p0dCNTbopG8HchNYuqes/pub?w=1297&amp;h=709)
-
+<!-- Google Drawings: https://docs.google.com/drawings/d/1PxkF6Dihh-sgxdFr7nhgzRUeAxv5C_A6uspYYqYf8Pk/edit -->
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/straylight-project/straylight-project.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
