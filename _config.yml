@@ -1,2 +1,6 @@
 title: Straylight Project
 theme: minima
+
+baseurl: "/"
+url: ""
+permalink: pretty
